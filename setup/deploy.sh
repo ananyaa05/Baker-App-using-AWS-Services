@@ -22,7 +22,7 @@ head() { echo -e "\n${BOLD}${CYAN}── $1 ────────────
 REGION="us-east-1"
 AZ1="us-east-1a"
 AZ2="us-east-1b"
-YOUR_PHONE="+91XXXXXXXXXX"        # ← Replace with real number
+YOUR_PHONE="+919582223942"        # ← Replace with real number
 DB_PASSWORD="BakerApp2026!"       # ← Change this
 APP_NAME="baker-app"
 ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text)
