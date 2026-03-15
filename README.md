@@ -6,7 +6,9 @@ VPC · Internet Gateway · Subnets · Security Groups · IAM · ALB · Auto Scal
 
 ---
 Website: http://baker-app-917283673359.s3-website-us-east-1.amazonaws.com
+
 ALB: baker-app-alb-1690844298.us-east-1.elb.amazonaws.com
+
 RDS: baker-app-db.cveky4ocex4y.us-east-1.rds.amazonaws.com
 
 ---
